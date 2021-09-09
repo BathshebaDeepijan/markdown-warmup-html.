@@ -1,0 +1,28 @@
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+td
+{
+    border: 1px solid rgb(219, 106, 13);
+}
+h1 {
+    text-decoration: underline;
+    color: lightblue;
+}
+
+h2
+{
+   color: blue;
+}
+.img{ float: right;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+  }
+h5{color: red;}
+h4{ color: slateblue;}
+
+
