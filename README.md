@@ -1,26 +1,27 @@
 # markdown-challenge
-
 *****
+
 ## Deepijan Bathsheba
 
 _Si vous pouvez le rêver, vous pouvez le faire._
 
-![alt text] (C:\Users\bathsheba\Desktop\BeCode\markdown-challenge-main\photoMoi.jpg "photo proffesionnel")
+![photoMoi](https://user-images.githubusercontent.com/90143547/132659908-fc11b94c-deb3-4318-9516-65236238cece.jpg)
 
 ### Maman combler qui vit sa vie à fond !
 
-| Anniversaire | Couleur préférée | Plat préféré      | Ananas sur la pizza |
-|--------------|----------------  |---------------    |---------------------|
-|  17/06       |    Bleu          | Cuisine Asiatique | - [x] OUI           |
-|              |                  |                   | - [ ] NON           |
+
+| Anniversaire | Couleur préférée | Plat préféré      | Ananas sur la pizza                                  |
+|--------------|----------------  |---------------    |------------------------------------------------------|
+|  17/06       |    Bleu          | Cuisine Asiatique | <ul><li>- [x] OUI </li><li> - [ ] NON </li></ul>     |
+
 
 #### Hobbies
 
 1. Broderie Diamants
 2. Jeux Vidéo :
-..* MMORPG
-..* RPG JAPONAIS
-..* MARIO
+   * MMORPG
+   * RPG JAPONAIS
+   * MARIO
 3. Coder
 
 ##### Tu peux toujours compter sur moi si tu as besoin d'une oreille attentive, de motivation et d'obtimisme ;) !
@@ -29,6 +30,4 @@ _Si vous pouvez le rêver, vous pouvez le faire._
 
 ###### CHUTE FRUITÉE !
 
-[Baptiste Geron]() || [Bathsheba Deepijan]() || [Bruno Presti]()
-
-
+[Baptiste Geron]( https://github.com/BaptisteGeron/markdown-challenge) || [Bathsheba Deepijan](https://github.com/BathshebaDeepijan/markdown-challenge) || [Bruno Presti](https://github.com/PrestiB/markdown-challenge)
